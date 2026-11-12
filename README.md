@@ -3,8 +3,8 @@
   <p>Пишу код. Иногда читаю то, что написал.</p>
 
   <h3>Стек</h3>
-  <img src="https://img.shields.io/badge/Grok-000000?logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-30363d?logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-30363d?logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Qwen-4B0082?logo=alibabacloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
